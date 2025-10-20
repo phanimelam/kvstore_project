@@ -196,3 +196,112 @@
 2025-10-20 09:21:12,715 [INFO] Replayed log from 'data.db' successfully.
 2025-10-20 09:21:12,716 [INFO] Key-Value Store started. Awaiting commands...
 2025-10-20 09:21:12,747 [INFO] GET 'key1' → '6f450e43-38d7-4fac-9e23-eae70d0457ac'
+2025-10-20 09:33:49,579 [INFO] Created new data file: data.db
+2025-10-20 09:33:49,579 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:33:49,580 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:33:49,584 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:33:49,584 [INFO] OK: SET 'key1' = 'ffb4f6d7-66bf-4dcb-b042-42468680da8f'
+2025-10-20 09:33:49,768 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:33:49,768 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:33:49,772 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:33:49,773 [INFO] OK: SET 'key1' = '4f5dda86-84c7-4e60-8021-4e035f1e7646'
+2025-10-20 09:33:49,779 [INFO] GET 'key1' → '4f5dda86-84c7-4e60-8021-4e035f1e7646'
+2025-10-20 09:33:49,864 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:33:49,864 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:33:49,867 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:33:49,867 [INFO] OK: SET 'key1' = 'da216f7f-68b2-490e-8214-59b15df573c0'
+2025-10-20 09:33:49,871 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:33:49,871 [INFO] OK: SET 'key1' = '77c81d74-cad1-4ad0-81e0-80ec52568c56'
+2025-10-20 09:33:49,879 [INFO] GET 'key1' → '77c81d74-cad1-4ad0-81e0-80ec52568c56'
+2025-10-20 09:33:49,966 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:33:49,967 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:33:49,967 [INFO] GET 'doesnotexist' → [Not Found]
+2025-10-20 09:33:50,036 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:33:50,037 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:33:50,041 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:33:50,041 [INFO] OK: SET 'key1' = '0562c95a-9e80-4c9b-872d-a7b1f6319023'
+2025-10-20 09:33:50,122 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:33:50,122 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:33:50,152 [INFO] GET 'key1' → '0562c95a-9e80-4c9b-872d-a7b1f6319023'
+2025-10-20 09:37:43,493 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:37:43,493 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:37:50,186 [INFO] Received EXIT command. Shutting down.
+2025-10-20 09:38:44,445 [INFO] Created new data file: data.db
+2025-10-20 09:38:44,445 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:38:44,445 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:38:44,449 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:38:44,449 [INFO] OK: SET 'key1' = '0d57d8cf-0622-4ab3-bd8d-2c56ab4a382d'
+2025-10-20 09:38:44,631 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:38:44,631 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:38:44,636 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:38:44,636 [INFO] OK: SET 'key1' = 'bf9a0276-5740-4743-87c6-d66949ba658d'
+2025-10-20 09:38:44,636 [INFO] GET 'key1' → 'bf9a0276-5740-4743-87c6-d66949ba658d'
+2025-10-20 09:38:44,723 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:38:44,724 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:38:44,728 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:38:44,729 [INFO] OK: SET 'key1' = '4ad034d8-4fc1-44f3-9c44-ad7df99f56ab'
+2025-10-20 09:38:44,732 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:38:44,733 [INFO] OK: SET 'key1' = '989272cd-693b-40b7-8d99-b5a5fc87f22e'
+2025-10-20 09:38:44,737 [INFO] GET 'key1' → '989272cd-693b-40b7-8d99-b5a5fc87f22e'
+2025-10-20 09:38:44,824 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:38:44,824 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:38:44,824 [INFO] GET 'doesnotexist' → [Not Found]
+2025-10-20 09:38:44,888 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:38:44,888 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:38:44,893 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:38:44,893 [INFO] OK: SET 'key1' = 'ab8251ea-6f98-40ad-ba4c-ea9e82fc9c49'
+2025-10-20 09:38:44,979 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:38:44,979 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:38:45,008 [INFO] GET 'key1' → 'ab8251ea-6f98-40ad-ba4c-ea9e82fc9c49'
+2025-10-20 09:39:31,009 [INFO] Created new data file: data.db
+2025-10-20 09:39:31,010 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:39:31,010 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:39:31,014 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:39:31,014 [INFO] OK: SET 'key1' = '5d781c2e-013d-4917-a97a-32312855041c'
+2025-10-20 09:39:31,206 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:39:31,206 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:39:31,211 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:39:31,211 [INFO] OK: SET 'key1' = 'd12c46d8-177a-45e2-aec2-0986ebf9d501'
+2025-10-20 09:39:31,212 [INFO] GET 'key1' → 'd12c46d8-177a-45e2-aec2-0986ebf9d501'
+2025-10-20 09:39:31,304 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:39:31,305 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:39:31,309 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:39:31,309 [INFO] OK: SET 'key1' = 'e6aefd7e-ab07-4876-b5ef-ea4b977f5452'
+2025-10-20 09:39:31,316 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:39:31,316 [INFO] OK: SET 'key1' = '521f1a42-74fe-4690-8596-c1a137fab2d2'
+2025-10-20 09:39:31,324 [INFO] GET 'key1' → '521f1a42-74fe-4690-8596-c1a137fab2d2'
+2025-10-20 09:39:31,412 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:39:31,412 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:39:31,412 [INFO] GET 'doesnotexist' → [Not Found]
+2025-10-20 09:39:31,475 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:39:31,475 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:39:31,559 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:39:31,559 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:39:31,588 [INFO] GET 'key1' → '41c3f3fe-f202-4a00-8641-e545174f4911'
+2025-10-20 09:40:33,816 [INFO] Created new data file: data.db
+2025-10-20 09:40:33,816 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:40:33,816 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:40:33,820 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:40:33,820 [INFO] OK: SET 'key1' = 'd0c9ab91-31e9-4965-80c2-f4beac85fee5'
+2025-10-20 09:40:34,008 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:40:34,008 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:40:34,013 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:40:34,013 [INFO] OK: SET 'key1' = '891d5486-676c-4a90-a31e-2f0a3124b0f1'
+2025-10-20 09:40:34,014 [INFO] GET 'key1' → '891d5486-676c-4a90-a31e-2f0a3124b0f1'
+2025-10-20 09:40:34,107 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:40:34,108 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:40:34,109 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:40:34,109 [INFO] OK: SET 'key1' = 'c35a08b3-7e73-4568-862e-b02b7e060eec'
+2025-10-20 09:40:34,114 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:40:34,115 [INFO] OK: SET 'key1' = '63f23324-a192-40db-b867-f1eeb4d555bd'
+2025-10-20 09:40:34,122 [INFO] GET 'key1' → '63f23324-a192-40db-b867-f1eeb4d555bd'
+2025-10-20 09:40:34,209 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:40:34,209 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:40:34,209 [INFO] GET 'doesnotexist' → [Not Found]
+2025-10-20 09:40:34,282 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:40:34,282 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:40:34,287 [INFO] Persisted SET for key 'key1'
+2025-10-20 09:40:34,287 [INFO] OK: SET 'key1' = '623bad4a-af83-4fd5-8047-c78f161a3311'
+2025-10-20 09:40:34,371 [INFO] Replayed log from 'data.db' successfully.
+2025-10-20 09:40:34,371 [INFO] Key-Value Store started. Awaiting commands...
+2025-10-20 09:40:34,398 [INFO] GET 'key1' → '623bad4a-af83-4fd5-8047-c78f161a3311'
