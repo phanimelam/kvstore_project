@@ -6,6 +6,7 @@ It supports simple `SET`, `GET`, and `EXIT` commands, providing a minimal CLI-ba
 The system ensures that all data persists even after restarts by rebuilding the in-memory index from a log file (`data.db`).
 
 ---
+![Gradebot Screenshot](gradebot_screenshot.png)
 
 ## ⚙️ **Features**
 - 🧱 Custom-built in-memory hash map (no Python dicts used)
@@ -33,3 +34,4 @@ The system ensures that all data persists even after restarts by rebuilding the 
 SET color blue
 GET color
 EXIT
+
